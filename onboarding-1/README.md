@@ -1,4 +1,4 @@
-# Sophiscated Side Menu
+# Onboarding Animation 1
 
 <div>
     <img src="https://user-images.githubusercontent.com/50784573/110328329-929d5e00-805e-11eb-83a0-e6c844060dcf.gif" height=300/>
@@ -10,7 +10,7 @@
 
 ## Features
 
-- Without using any 3rd party library
+- Only using one 3rd party library; SnapKit
 - Fully programmatic approach
 - Clean, scalable and maintainable code.
 
