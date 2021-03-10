@@ -221,9 +221,6 @@ extension OnboardingViewController: UICollectionViewDelegate, UICollectionViewDa
         imageViews[index].alpha = fadeOutAlpha
         imageViews[index + 1].alpha = fadeInAlpha
     }
-    
-    
-    
 }
 
 //MARK: - UICollectionViewDelegateFlowLayout

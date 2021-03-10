@@ -117,6 +117,7 @@ class OnboardingViewController: UIViewController {
         pageControl.currentPage = index
         mainLabel.alpha = 1.0
         detailLabel.alpha = 1.0
+        //apply a transform to a UILabel before animating
         mainLabel.transform = .identity
         detailLabel.transform = .identity
     }
@@ -177,21 +178,6 @@ class OnboardingViewController: UIViewController {
             make.leading.equalToSuperview().offset(30)
             make.trailing.equalToSuperview().offset(-30)
         }
-        
-        
-//        let stack = UIStackView(arrangedSubviews: [mainLabel, detailLabel])
-//        stack.axis = .vertical
-//        stack.distribution = .fillEqually
-//        stack.spacing = -20
-//
-//        view.addSubview(stack)
-//
-//        stack.snp.makeConstraints { (make) -> Void in
-//            make.top.equalToSuperview().offset(100)
-//            make.height.equalTo(250)
-//            make.leading.equalToSuperview().offset(30)
-//            make.trailing.equalToSuperview().offset(-30)
-//        }
     }
 }
 
