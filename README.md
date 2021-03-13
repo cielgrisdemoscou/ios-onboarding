@@ -3,7 +3,6 @@
 ## Travel Application Onboarding
 
 <div>
-    <img src="https://user-images.githubusercontent.com/50784573/110328329-929d5e00-805e-11eb-83a0-e6c844060dcf.gif" height=300/>
     <img src="https://user-images.githubusercontent.com/50784573/110328650-f3c53180-805e-11eb-852c-9598716745a9.png" height=300/>
     <img src="https://user-images.githubusercontent.com/50784573/110328663-f9227c00-805e-11eb-958a-87f17c2dab59.png" height=300/>
     <img src="https://user-images.githubusercontent.com/50784573/110328670-fa53a900-805e-11eb-9a63-9b902f42bfda.png" height=300/>
@@ -13,7 +12,6 @@
 ## Fashion Application Onboarding
 
 <div>
-    <img src="https://user-images.githubusercontent.com/50784573/110582762-0307c480-81b0-11eb-917b-dac7ee11bb80.gif" height=300/>
     <img src="https://user-images.githubusercontent.com/50784573/110582780-0e5af000-81b0-11eb-916c-55bbd6cd2972.png" height=300/>
     <img src="https://user-images.githubusercontent.com/50784573/110582784-0ef38680-81b0-11eb-8b2a-80375e2ee55e.png" height=300/>
     <img src="https://user-images.githubusercontent.com/50784573/110582790-10bd4a00-81b0-11eb-8833-bc96b24e2127.png" height=300/>
