@@ -18,6 +18,13 @@
     <img src="https://user-images.githubusercontent.com/50784573/110582792-1155e080-81b0-11eb-9a33-e29c6e74b996.png" height=300/>
 </div>
 
+## Video Onboarding
+
+<div>
+    <img src="https://user-images.githubusercontent.com/50784573/111138270-14dbd400-85c3-11eb-9655-b7ea0adc0739.png" height=300/>
+    <img src="https://user-images.githubusercontent.com/50784573/111138288-1b6a4b80-85c3-11eb-8ffc-a2d99a6fd3c4.png" height=300/>
+</div>
+
 ## Features
 
 - Only using one 3rd party library; SnapKit
